@@ -21,7 +21,7 @@ do
 		Inline = Color3.fromRGB(0,255,0);
 		Background = Color3.fromRGB(0 0,0);
 		Text = Color3.fromRGB(0,255,0);
-		TextInactive = Color3.fromRGB(135,135,135);
+		TextInactive = Color3.fromRGB(0,0,0);
 		Border = Color3.fromRGB(0,0,0);
 		Risky = Color3.fromRGB(255,0,0);
 
