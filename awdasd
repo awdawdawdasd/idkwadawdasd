@@ -299,7 +299,7 @@ repeat
  end
  
  local library = {
-    Title = 'Dodgebros.<font color="rgb(115, 100, 215)">lol</font> || SouthBronx',
+    Title = 'Dodgebros.<font color="rgb(115, 100, 215)">wtf</font> || SouthBronx',
     keybind = Enum.KeyCode.RightBracket,
     Watermark = createWatermark(),
        Colors = {
