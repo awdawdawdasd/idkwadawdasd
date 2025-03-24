@@ -689,7 +689,7 @@ repeat
  
                             mid.Name = "mid"
                             mid.Parent = tobble
-                            mid.BackgroundColor3 = Color3.fromRGB(69, 23, 255)
+                            mid.BackgroundColor3 = Color3.fromRGB255, 255, 255
                             mid.BorderColor3 = Color3.fromRGB(25,25,25)
                             mid.BorderSizePixel = 2
                             mid.Size = UDim2.new(0, 12, 0, 12)
@@ -972,7 +972,7 @@ repeat
  
                                 mid.Name = "mid"
                                 mid.Parent = colorpicker
-                                mid.BackgroundColor3 = Color3.fromRGB(69, 23, 255)
+                                mid.BackgroundColor3 = Color3.fromRGB255, 255, 255
                                 mid.BorderColor3 = Color3.fromRGB(25,25,25)
                                 mid.BorderSizePixel = 2
                                 mid.Size = UDim2.new(1, 0, 1, 0)
@@ -2030,7 +2030,7 @@ repeat
  
                             mid.Name = "mid"
                             mid.Parent = colorpicker_2
-                            mid.BackgroundColor3 = Color3.fromRGB(69, 23, 255)
+                            mid.BackgroundColor3 = Color3.fromRGB255, 255, 255
                             mid.BorderColor3 = Color3.fromRGB(25,25,25)
                             mid.BorderSizePixel = 2
                             mid.Size = UDim2.new(1, 0, 1, 0)
