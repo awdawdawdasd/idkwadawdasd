@@ -407,7 +407,7 @@ repeat
     ActiveUserLabel.Size = UDim2.new(0.00125635799, 200, 4.04341888, -1)
     ActiveUserLabel.FontFace = Font.fromId(12187362578, Enum.FontWeight.Regular)
     ActiveUserLabel.RichText = true
-    ActiveUserLabel.Text = "active user: <font color=\"rgb(115, 100, 215)\">Dodgebros</font>"
+    ActiveUserLabel.Text = "active user of: <font color=\"rgb(115, 100, 215)\">Dodgebros</font>"
     ActiveUserLabel.TextColor3 = Color3.fromRGB(74, 74, 74)
     ActiveUserLabel.TextSize = 10
     ActiveUserLabel.TextXAlignment = Enum.TextXAlignment.Right
