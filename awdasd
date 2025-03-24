@@ -304,7 +304,7 @@ repeat
     Watermark = createWatermark(),
        Colors = {
           libColor = Color3.fromRGB(255, 255, 255),
-          riskyColor = Color3.fromRGB(255, 0, 0),
+          riskyColor = Color3.fromRGB(255, 255, 255),
           FontColor = Color3.fromRGB(255, 255, 255),
           MainColor = Color3.fromRGB(14, 14, 14),
           AccentColor = Color3.fromRGB(255, 255, 255),
